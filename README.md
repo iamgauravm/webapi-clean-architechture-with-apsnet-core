@@ -5,4 +5,6 @@ Clean Architechture WebAPI with ASP.NET Core
 - [x] Onion Architecture
 - [x] CQRS with MediatR Library
 - [x] Entity Framework Core - Code First
+- [x] Repository Pattern - Generic
+- [x] MediatR Pipeline Logging & Validation
 
